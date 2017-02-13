@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: io.github.mstraughan86.dungeon2.desktop
-Main-Class: io.github.mstraughan86.dungeon2.desktop.DesktopLauncher
-

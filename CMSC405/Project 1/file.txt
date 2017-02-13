@@ -1,6 +1,0 @@
-Scene Polygons (500, 500)
-Isosceles Color (1.0, 0.0, 0.0) at (20.0, 20.0) Height 100.0 Width 300.0;
-Parallelogram Color (0.0, 0.0, 1.0) at (40., 10.) (100., 70.) Offset 10.;
-RegularPolygon Color(1.0, 0.0, 1.0) at (-100., 100.) Sides 6 Radius 80.;
-Text Color(0.0, 0.0, 0.0) at (-200., 200.) "Hello World";
-End.
